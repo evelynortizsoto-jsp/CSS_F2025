@@ -1,0 +1,9 @@
+git clone https://github.com/alanmozaffari/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir "Project 1"
+cd "Project 1"
+touch text_file.txt
+Nano text_file.txt
+git add *
+git commit -m "adding final commands to txt file" 
+git push
